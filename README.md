@@ -10,4 +10,4 @@ In this code along I refactored the provided the starter files using HTML,CSS an
 3.Bootstarp
  
  # click to sitelink to view the website
- [site link](https://github.com/rishitha123456789/tindog456.git)
+ [site link](https://rishitha123456789.github.io/tindog456/)
